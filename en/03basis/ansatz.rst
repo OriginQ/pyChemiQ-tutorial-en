@@ -14,7 +14,7 @@ The CC in UCC is the Coupled Cluster operator e^t in quantum chemistry :math:`e^
 
 .. image:: ./picture/UCC.png
    :align: center
-   :scale: 50%
+   :scale: 40%
 .. centered:: Figure 1: Quantum Circuit of Single Excitation Operator :math:`a_2^{\dagger}a_0 - a_0^{\dagger}a_2`
 
 2. Constructing Circuits Using the Hardware-Efficient Ansatz
